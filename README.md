@@ -1,0 +1,2 @@
+# STL-GPSMultiUnitMountCase
+GPSマルチユニットのマウントケースのSTLデータです。
